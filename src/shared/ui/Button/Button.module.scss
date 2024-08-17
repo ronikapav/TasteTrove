@@ -1,0 +1,19 @@
+.button {
+    background-color: var(--background-button);
+    border: none;
+    color: var(--color-white);
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: var(--box-shadow-line-button);
+    position: absolute;
+    top: 0;
+    right: 0;
+    transition: 0.9s ease;
+    font-family: var(--font-family);
+    
+    &:hover {
+    transform: scale(1.1);
+    color: var(--color-white);
+    background-color: var(--background-button-hover);
+    }
+    }

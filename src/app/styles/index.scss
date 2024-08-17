@@ -1,0 +1,8 @@
+@use 'normalize' as *;
+@use 'fonts' as *;
+@use 'vars' as *;
+
+body{
+    background-image: var(--background-image);
+    font-family: var(--font-family);
+}

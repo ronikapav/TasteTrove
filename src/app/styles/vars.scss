@@ -1,0 +1,38 @@
+:root {
+    // colors/shadow
+    --background-image: linear-gradient(-10deg, #4e99e9 35%, #ffffff 35%); // ground
+    --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.171); //individual recipe shadow
+    --box-shadow-line-button: 0 0 10px rgba(0, 0, 0, 0.1); // input line and button shadow
+    --border-bottom: 2px solid #ddd; // prescription limit lower
+    --background-single: #fff; // background of each recipe
+    --background-button: #4e99e9; // button background
+    --background-button-hover: blue; // button background on hover
+    --border-image: 5px solid #dddd; // image stroke
+    --border-inside: 2px dashed #000; // parting line within the recipe
+    --color-orange: #ff7710; // app name color
+    --color-black: #222; // app description color
+    --color-white: #fff; // button text color
+    --background-line: tomato; // line color in the name app
+
+    //fonts
+    --font-family: "Poppins", sans-serif;  // fon
+
+    //font-size
+    --font-size-xxs: 12px; // input line
+    --font-size-xs: 15px; // calorie information
+    --font-size-sm: 16px; // main text
+    --font-size-md: 18px; // dish name
+    --font-size-lg: 24px; // app description
+    --font-size-xl: 48px; // app name
+
+    // font-weight
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700; 
+
+    // font-style
+    --font-style: italic; 
+
+    // text transform
+    --text-capitalize: capitalize;
+    
+}
