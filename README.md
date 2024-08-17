@@ -9,9 +9,9 @@
 <p>3. Просмотр картинки блюда и калорийности каждого рецепта.</p>
 <h2>Установка</h2>
 <p>1. Склонируйте репозиторий на свой компьютер:</p>
-<pre><code>git clone https://github.com/ronikapav/Taste-Trove.git</code></pre>
+<pre><code>git clone https://github.com/ronikapav/TasteTrove.git</code></pre>
 <p>2. Перейдите в папку с проектом:</p>
-<pre><code>cd Taste-Trove</code></pre>
+<pre><code>cd TasteTrove</code></pre>
 <p>3. Установите необходимые зависимости:</p>
 <pre><code>npm install</code></pre>
 <p>4. Запустите проект:</p>
