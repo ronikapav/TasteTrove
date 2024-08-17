@@ -1,6 +1,6 @@
 <h1 align="center">Сокровищница Вкусов</h1>
 <div align="center">
-<a href="https://app-to-do-list-app.netlify.app/" target="_blank"><img align="center" src="https://i.ibb.co/DVg2tPM/2024-01-22-235657.png" height="500"/></a> 
+<a href="https://taste-trove-app.netlify.app/" target="_blank"><img align="center" src="https://i.ibb.co/DVg2tPM/2024-01-22-235657.png" height="500"/></a> 
 </div>
 <h3 align="center">Сокровищница Вкусов - это приложение для поиска рецептов на основе API, содержащего более 2,3 миллиона рецептов. Приложение позволяет пользователю ввести любой ингредиент в строку поиска и получить множество рецептов, содержащих этот ингредиент. Каждый рецепт включает в себя картинку блюда, название и калорийность.</h3>
 <h2>Особенности приложения</h2>
