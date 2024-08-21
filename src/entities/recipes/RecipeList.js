@@ -1,4 +1,3 @@
-// src/entities/recipes/RecipeList.js
 import React from 'react';
 import { useRecipeSearch } from '../../features/search/model/useRecipeSearch';
 import Recipe from './Recipe';
