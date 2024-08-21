@@ -1,10 +1,11 @@
 import React from 'react';
-import RecipeSearch from '../features/search/ui/RecipeSearch';
+import Main from '../pages/Main';
+
 
 function App() {
   return (
     <div>
-      <RecipeSearch />
+      <Main />
     </div>
   );
 }
