@@ -1,0 +1,19 @@
+.wrapper {
+    width: 100%;
+  }
+  
+  .menu {
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  @media (max-width: 1220px) {
+    .menu {
+      flex-direction: column;
+      padding: 20px;
+    }
+  
+    .single_menu {
+      flex-basis: 100%;
+    }
+  }  
